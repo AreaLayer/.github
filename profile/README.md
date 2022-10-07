@@ -16,6 +16,6 @@ We're building many products to do a world free
 
 *Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc): soon open source
 
-*Cashu walllet typescript version inspired by Cashu wallet-js: https://github.com/Layer2Labs/Cashuwallet-typescript (experimental)
+*Satsbyte inspired by Cashu wallet-js: https://github.com/Layer2Labs/Satsbyte-typescript (experimental)
 
 *Portico Exchange: First Exchange Decentralized on Lightning backed by Sequentia, RGB, Omnibolt, Liquid Network: https://github.com/PorticoExchange
