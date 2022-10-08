@@ -21,3 +21,5 @@ We're building many products to do a world free
 *Portico Exchange: First Exchange Decentralized on Lightning backed by Sequentia, RGB, Omnibolt, Liquid Network: https://github.com/PorticoExchange
 
 *Route Swap: Easy swap between off chain and on chain: soon open source
+
+*Lightning Jobs: Find jobs for Companies Bitcoin-only: soon open source
