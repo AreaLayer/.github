@@ -23,3 +23,6 @@ We're building many products to do a world free
 *Route Swap: Easy swap between off chain and on chain: soon open source
 
 *Lightning Jobs: Find jobs for Companies Bitcoin-only: soon open source
+
+*Node Runners Lending: P2P lending channels: soon open source
+
