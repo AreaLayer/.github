@@ -26,3 +26,5 @@ We're building many products to do a world free
 
 *Node Runners Lending: P2P lending channels: soon open source
 
+*DCA Lightning: Buy Bitcoin direct in your Node Lightning: soon open source
+
