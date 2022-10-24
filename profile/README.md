@@ -31,5 +31,5 @@ We're building many products to do a world free
 
 *DCA Lightning: Buy Bitcoin direct in your Node Lightning: soon open source
 
-*Tarot: First Exchange for assets Taro
+*Tarot: First Exchange for assets Taro: soon open source
 
