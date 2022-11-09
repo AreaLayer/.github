@@ -33,3 +33,4 @@ We're building many products to do a world free
 
 *[Tarot: First Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
+*BitWallet: Full RGB wallet
