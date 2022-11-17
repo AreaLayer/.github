@@ -5,7 +5,7 @@
 
 We're building many products to do a world free
 
-*[P2P BTC: First marketplace P2P that use USDT and BTC (LN)](https://github.com/Layer2Labs/P2PBTC)
+*[P2P BTC: First marketplace P2P that use USDT and BTC on Lightning)](https://github.com/Layer2Labs/P2PBTC)
 
 *[Lightning Name Service: Next generation of Lightning Address](https://github.com/Layer2Labs/LightningNameService)
 
@@ -17,19 +17,19 @@ We're building many products to do a world free
 
 *[Lightning Wallet: Wallet backed by RGB, L1 and L2](https://github.com/Layer2Labs/LightningWallet1)
 
-*Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc): soon open source
+*Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc)
 
 *[Satsbyte: Fedimint and Lightning](https://github.com/Layer2Labs/Satsbyte) (experimental)
 
 *[Portico Exchange: First Exchange Decentralized on Lightning backed by Sequentia](https://github.com/PorticoExchange)
 
-*Route Swap: Easy swap between off chain and on chain: soon open source
+*Route Swap: Easy swap between off chain and on chain
 
-*Lightning Jobs: Find jobs for Companies Bitcoin-only: soon open source
+*Lightning Jobs: Find jobs for Companies Bitcoin-only
 
-*Node Runners Lending: P2P lending channels: soon open source
+*Node Runners Lending: P2P lending channels
 
-*DCA Lightning: Buy Bitcoin direct in your Node Lightning: soon open source
+*DCA Lightning: Buy Bitcoin direct in your Node Lightning
 
 *[Tarot: First Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
