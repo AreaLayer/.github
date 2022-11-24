@@ -34,3 +34,5 @@ We're building many products to do a world free
 *[Tarot: First Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
 *BitGuard: Full RGB wallet for Android and iOs
+
+*RGBdex: Exchange for RGB assets
