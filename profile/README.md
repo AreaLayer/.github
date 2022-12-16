@@ -36,3 +36,7 @@ We're building many products to do a world free
 *BitGuard: Full RGB wallet for Android and iOs
 
 *RGBdex: Exchange for RGB assets
+
+*AreaBit: Loans Bitcoin and stablecoins
+
+*Pill Satoshi: Social media for Bitcoiners on the Nostr
