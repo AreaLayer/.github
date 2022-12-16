@@ -37,6 +37,6 @@ We're building many products to do a world free
 
 *RGBdex: Exchange for RGB assets
 
-*AreaBit: Loans Bitcoin and stablecoins
+*AreaBit: Loans Bitcoin and stablecoins on RGB Network
 
 *Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)
