@@ -1,4 +1,4 @@
-## Layer2Labs: Building on Bitcoin ⚡️
+## LayerWork2: Building on Bitcoin ⚡️
 
 ![image](https://user-images.githubusercontent.com/83122757/196933330-3b4d5957-294b-430a-a695-85f8fda5caa3.png)
 
