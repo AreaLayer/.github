@@ -1,6 +1,6 @@
 ## LayerWork2: Building on Bitcoin ⚡️
 
-![image](https://user-images.githubusercontent.com/83122757/196933330-3b4d5957-294b-430a-a695-85f8fda5caa3.png)
+![image](https://user-images.githubusercontent.com/83122757/208729218-b7a58549-f4b3-4a39-8691-5719bc7cac04.png)
 
 
 We're building many products to do a world free
