@@ -1,4 +1,4 @@
-## LayerWork2: Building on Bitcoin ⚡️
+## Area Layer: Building on Bitcoin ⚡️
 
 ![image](https://user-images.githubusercontent.com/83122757/208729218-b7a58549-f4b3-4a39-8691-5719bc7cac04.png)
 
