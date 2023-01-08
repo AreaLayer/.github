@@ -43,5 +43,6 @@ We're building many products to do a world free
 
 *Dagda: Trade options on the Liquid Network
 
+*Asgard: Wallet baccked by  Statechain, Lightning and Portico Exchange
 
 
