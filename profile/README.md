@@ -40,3 +40,8 @@ We're building many products to do a world free
 *AreaBit: Loans Bitcoin on RGB Network
 
 *Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)
+
+*Dagda: Trade options on the Liquid Network
+
+
+
