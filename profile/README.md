@@ -7,11 +7,11 @@ We're building many products to do a world free
 
 *[P2P BTC: First marketplace P2P that use USDT and BTC on Lightning](https://github.com/Layer2Labs/P2PBTC)
 
-*[Lightning Name Service: Next generation of Lightning Address](https://github.com/Layer2Labs/LightningNameService)
+*[Lightning Name Service: Next generation of Lightning Address on RGB Network](https://github.com/Layer2Labs/LightningNameService)
 
-*[Circle: "Github" on Bitcoin](https://github.com/Layer2Labs/CircleInterface.github.io)
+*[Circle: "Github" on Bitcoin backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/CircleInterface.github.io)
 
-*[Lightning Music: "Spotify" on Lightning](https://github.com/Layer2Labs/LightningMusic)
+*[Lightning Music: "Spotify" backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/LightningMusic)
 
 *[Lightning Mobile: First phone powered by Bitcoin, Lightning and DIDs](https://github.com/Layer2Labs/Lightning-Mobile)
 
@@ -27,13 +27,13 @@ We're building many products to do a world free
 
 *Lightning Jobs: Find jobs for Companies Bitcoin-only
 
-*Node Runners Lending: P2P lending channels
+*Node Runners Lending: P2P lending channels on RGB Network
 
-*DCA Lightning: Buy Bitcoin direct in your Node Lightning
+*DCA Lightning: Buy Bitcoin direct in your Node Lightning on RGB Network
 
 *[Tarot: First Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
-*BitGuard: Full RGB wallet for Android and iOs
+*BitGuard: Full RGB wallet for Android and iOs + DEX
 
 *RGBdex: Exchange for RGB assets
 
