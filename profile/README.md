@@ -35,7 +35,7 @@ We're building many products to do a world free
 
 *BitGuard: Full RGB wallet for Android and iOs + DEX
 
-*RGBdex: Exchange for RGB assets
+*BitDEX: Exchange for RGB assets
 
 *AreaBit: Loans Bitcoin on RGB Network
 
