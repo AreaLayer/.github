@@ -45,6 +45,6 @@ We're building many products to do a world free
 
 *Asgard: Wallet backed by  Statechain, Lightning and Portico Exchange
 
-*HyperArm: TBD :holeboxing_glove:
+*HyperArm: TBD :hole_boxing:
 
 
