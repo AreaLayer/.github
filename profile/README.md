@@ -33,7 +33,7 @@ We're building many products to do a world free
 
 *[Tarot: First Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
-*BitGuard: Full RGB wallet for Android, ioS and BitDEX
+*BitGuard: Full RGB wallet for Android, iOs and BitDEX
 
 *BitDEX: Exchange Decentralized AMM on RGB Network
 
