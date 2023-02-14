@@ -33,9 +33,9 @@ We're building many products to do a world free
 
 *[Tarot: First Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
-*BitGuard: Full RGB wallet for Android and iOs + DEX
+*BitGuard: Full RGB wallet for Android, ioS and BitDEX
 
-*BitDEX: Exchange for RGB assets
+*BitDEX: Exchange Decentralized AMM on RGB Network
 
 *AreaBit: Loans Bitcoin on RGB Network
 
