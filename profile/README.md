@@ -21,7 +21,7 @@ We're building many products to do a world free
 
 *[Satsbyte: Fedimint and Lightning](https://github.com/Layer2Labs/Satsbyte) (experimental)
 
-*[Portico Exchange: First Exchange Decentralized on Lightning backed by Sequentia](https://github.com/PorticoExchange)
+*[Portico Exchange: Atomic Swaps transactions on Sequentia](https://github.com/PorticoExchange)
 
 *Route Swap: Easy swap between off chain and on chain
 
