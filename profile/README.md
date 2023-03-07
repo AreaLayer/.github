@@ -19,7 +19,7 @@ We're building many products to do a world free
 
 *Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc)
 
-*[Satsbyte: Fedimint and Lightning](https://github.com/Layer2Labs/Satsbyte) (experimental)
+*[Satsbyte: Fedimint and Lightning](https://github.com/Layer2Labs/Satsbyte)
 
 *[Portico Exchange: Atomic Swaps transactions on Lightning Network](https://github.com/PorticoExchange)
 
@@ -45,6 +45,6 @@ We're building many products to do a world free
 
 *Asgard: Wallet backed by  Statechain, Lightning and Portico Exchange
 
-*HyperArm: P2P API for Hypercore 
+*[HyperArm: P2P API for Hypercore](https://github.com/AreaLayer/HyperArm)
 
 
