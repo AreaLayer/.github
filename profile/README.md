@@ -5,7 +5,7 @@
 
 We're building many products to do a world free
 
-*[P2P BTC: First marketplace P2P that use USDT and BTC on Lightning](https://github.com/Layer2Labs/P2PBTC) :voltage:
+*[P2P BTC: First marketplace P2P that use USDT and BTC on Lightning](https://github.com/Layer2Labs/P2PBTC)
 
 *[Lightning Name Service: Next generation of Lightning Address on RGB Network](https://github.com/Layer2Labs/LightningNameService) 
 
