@@ -5,9 +5,9 @@
 
 We're building many products to do a world free
 
-*[P2P BTC: First marketplace P2P that use USDT and BTC on Lightning](https://github.com/Layer2Labs/P2PBTC)
+*[P2P BTC: First marketplace P2P that use USDT and BTC on Lightning](https://github.com/Layer2Labs/P2PBTC) :voltage:
 
-*[Lightning Name Service: Next generation of Lightning Address on RGB Network](https://github.com/Layer2Labs/LightningNameService)
+*[Lightning Name Service: Next generation of Lightning Address on RGB Network](https://github.com/Layer2Labs/LightningNameService) 
 
 *[Circle: "Github" on Bitcoin backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/CircleInterface.github.io)
 
