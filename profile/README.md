@@ -5,7 +5,7 @@
 
 We're building many products to do a world free
 
-*[P2P BTC: First marketplace P2P that use USDT and BTC on Lightning](https://github.com/Layer2Labs/P2PBTC)
+*[P2P BTC: P2P Marketplace with Nostr and Lightning Network](https://github.com/Layer2Labs/P2PBTC)
 
 *[Lightning Name Service: Next generation of Lightning Address on RGB Network](https://github.com/Layer2Labs/LightningNameService) 
 
@@ -29,7 +29,7 @@ We're building many products to do a world free
 
 *DCA Lightning: Buy Bitcoin direct in your Node Lightning on RGB Network
 
-*[Tarot: First Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
+*[Tarot: Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
 *BitGuard: Full RGB wallet for Android, iOs and BitDEX
 
