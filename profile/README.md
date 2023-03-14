@@ -45,6 +45,6 @@ We're building many products to do a world free
 
 *[HyperArm: P2P API for Hypercore](https://github.com/AreaLayer/HyperArm)
 
-*Dharma: TBD
+*Dharma: TBA
 
-*Hash Pool: TBD
+*Hash Pool: TBA 
