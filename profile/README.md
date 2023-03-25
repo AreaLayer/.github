@@ -13,7 +13,7 @@ We're building many products to do a world free
 
 *[Lightning Music: "Spotify" backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/LightningMusic)
 
-*[Lightning Wallet: Wallet backed by RGB, L1 and L2](https://github.com/Layer2Labs/LightningWallet1)
+*[Lightning Wallet: Wallet backed by RGB, L1 and  L2](https://github.com/Layer2Labs/LightningWallet1)
 
 *Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc)
 
@@ -32,6 +32,8 @@ We're building many products to do a world free
 *[Tarot: Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
 *BitGuard: Full RGB wallet for Android, iOs and BitDEX
+
+*FireBolt: TBA
 
 *BitDEX: Exchange Decentralized AMM on RGB Network
 
