@@ -33,7 +33,7 @@ We're building many products to do a world free
 
 *BitGuard: Full RGB wallet for Android, iOs and BitDEX
 
-*FireBolt: TBA
+*FireBolt: Wallet Bitcoin and Lightning-only for Android
 
 *BitDEX: Exchange Decentralized AMM on RGB Network
 
@@ -47,6 +47,6 @@ We're building many products to do a world free
 
 *[HyperArm: P2P API for Hypercore](https://github.com/AreaLayer/HyperArm)
 
-*Dharma: TBA
+*Dharma: Crowdfunding on Liquid, offer non-custodial platform to Companies and projects Bitcoin-only 
 
-*Hash Pool: TBA 
+*Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
