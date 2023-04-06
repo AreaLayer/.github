@@ -7,8 +7,6 @@ We're building many products to do a world free
 
 *[P2P BTC: P2P Marketplace with Nostr and Lightning Network](https://github.com/Layer2Labs/P2PBTC)
 
-*[Lightning Name Service: Next generation of Lightning Address on RGB Network](https://github.com/Layer2Labs/LightningNameService) 
-
 *[Circle: "Github" on Bitcoin backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/CircleInterface.github.io)
 
 *[Lightning Music: "Spotify" backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/LightningMusic)
