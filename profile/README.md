@@ -5,7 +5,7 @@
 
 We're building many products to do a world free
 
-*[P2P BTC: P2P Marketplace with Nostr and Lightning Network](https://github.com/Layer2Labs/P2PBTC)
+*[P2P BTC: P2P Marketplace with Nostr, ION and Lightning Network](https://github.com/Layer2Labs/P2PBTC)
 
 *[Circle: "Github" on Bitcoin backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/CircleInterface.github.io)
 
