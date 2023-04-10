@@ -11,7 +11,7 @@ We're building many products to do a world free
 
 *[Lightning Music: "Spotify" backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/LightningMusic)
 
-*[Lightning Wallet: Wallet backed by RGB, L1 and  L2](https://github.com/AreaLayer/Lightning-Wallet)
+*[Lightning Wallet: Wallet Browser with RGB, Lightning Network and BitDEX](https://github.com/AreaLayer/Lightning-Wallet)
 
 *Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc)
 
