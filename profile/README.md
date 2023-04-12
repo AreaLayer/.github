@@ -4,7 +4,7 @@
 
 *[P2P BTC: P2P Marketplace with Nostr, ION and Lightning Network](https://github.com/AreaLayer/P2PBTC)
 
-*Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc)
+*Timelight: Inbound Liquidity using Lightning Node 
 
 *[Portico Exchange: Atomic Swaps transactions on Lightning Network](https://github.com/PorticoExchange)
 
@@ -16,7 +16,7 @@
 
 *DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
-*FireBolt: Wallet Bitcoin and Lightning-only for Android
+*FireBolt: Wallet Bitcoin, Lightning Network and Nostr 
 
 *[Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)](https://github.com/AreaLayer/PillSatoshi)
 
