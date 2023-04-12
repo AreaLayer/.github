@@ -2,20 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/83122757/208729218-b7a58549-f4b3-4a39-8691-5719bc7cac04.png)
 
-
-We're building many products to do a world free
-
-*[P2P BTC: P2P Marketplace with Nostr, ION and Lightning Network](https://github.com/Layer2Labs/P2PBTC)
-
-*[Circle: "Github" on Bitcoin backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/CircleInterface.github.io)
-
-*[Lightning Music: "Spotify" backed by RGB, Carbonado, Lightning Network and Storm](https://github.com/Layer2Labs/LightningMusic)
-
-*[Lightning Wallet: Wallet Browser with RGB, Lightning Network and BitDEX](https://github.com/AreaLayer/Lightning-Wallet)
+*[P2P BTC: P2P Marketplace with Nostr, ION and Lightning Network](https://github.com/AreaLayer/P2PBTC)
 
 *Timelight: Inbound Liquidity using Lightning Node (LND/CLN/Eclair, etc)
-
-*[Satsbyte: Fedimint and Lightning](https://github.com/Layer2Labs/Satsbyte)
 
 *[Portico Exchange: Atomic Swaps transactions on Lightning Network](https://github.com/PorticoExchange)
 
@@ -23,28 +12,16 @@ We're building many products to do a world free
 
 *Lightning Jobs: Find jobs for Companies Bitcoin-only
 
-*Node Runners Lending: P2P lending channels on RGB Network
+*Node Runners Lending: P2P lending channels on Nostr
 
-*DCA Lightning: Buy Bitcoin direct in your Node Lightning on RGB Network
+*DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
 *[Tarot: Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
 
-*BitGuard: Full RGB wallet for Android, iOs and BitDEX
-
 *FireBolt: Wallet Bitcoin and Lightning-only for Android
-
-*BitDEX: Exchange Decentralized AMM on RGB Network
-
-*AreaBit: Loans Bitcoin on RGB Network
 
 *[Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)](https://github.com/AreaLayer/PillSatoshi)
 
-*Dagda: Trade options on the Liquid Network
-
-*Asgard: Wallet backed by  Statechain, Lightning and Portico Exchange
-
 *[HyperArm: P2P API for Hypercore](https://github.com/AreaLayer/HyperArm)
-
-*Dharma: Crowdfunding on Liquid, offer non-custodial platform to Companies and projects Bitcoin-only 
 
 *Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
