@@ -12,7 +12,7 @@
 
 *Lightning Jobs: Find jobs for Companies Bitcoin-only
 
-*Node Runners Lending: P2P lending channels on Nostr
+*Node Runners Lending: P2P lending channels on Nostr and DLCs
 
 *DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
