@@ -6,8 +6,6 @@
 
 *Timelight: Inbound Liquidity using Lightning Node 
 
-*[Portico Exchange: Atomic Swaps transactions on Lightning Network](https://github.com/PorticoExchange)
-
 *Route Swap: Easy swap between off chain and on chain
 
 *Lightning Jobs: Find jobs for Companies Bitcoin-only
