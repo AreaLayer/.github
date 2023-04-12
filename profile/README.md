@@ -16,7 +16,7 @@
 
 *DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
-*[FireBolt: Wallet Bitcoin, Lightning Network and Nostr]((https://github.com/AreaLayer/FireBolt)
+*[FireBolt: Wallet Bitcoin, Lightning Network and Nostr](https://github.com/AreaLayer/FireBolt)
 
 *[Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)](https://github.com/AreaLayer/PillSatoshi)
 
