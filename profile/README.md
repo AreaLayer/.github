@@ -16,8 +16,6 @@
 
 *DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
-*[Tarot: Exchange for assets Taro](https://github.com/Layer2Labs/Tarot)
-
 *FireBolt: Wallet Bitcoin and Lightning-only for Android
 
 *[Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)](https://github.com/AreaLayer/PillSatoshi)
