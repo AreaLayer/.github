@@ -14,7 +14,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
-- [FireBolt: Wallet non-custodial Bitcoin, Lightning Network, Nostr and HyperCore](https://github.com/AreaLayer/FireBolt)
+- [FireBolt: Wallet non-custodial Bitcoin, Lightning Network, Nostr, HyperCore, CoinJoin and TBD](https://github.com/AreaLayer/FireBolt)
 
 - [Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)](https://github.com/AreaLayer/PillSatoshi)
 
