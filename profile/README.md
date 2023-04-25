@@ -26,7 +26,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Nostr relay (soon)
 
-- Federated Lightning address with NIP-05 (soon)
+- [Federated Lightning address with NIP-05](https://github.com/AreaLayer/nostdress)
 
 - DLCs for Lightning Network via Javascript library (soon)
 
