@@ -4,9 +4,7 @@
 
 *[P2P BTC: P2P Marketplace with Nostr, ION and Lightning Network](https://github.com/AreaLayer/P2PBTC)
 
-*Timelight: Inbound Liquidity using Lightning Node 
-
-*Route Swap: Easy swap between off chain and on chain
+*Timelight: LSP, Submarine Swap for Lightning Nodes
 
 *Lightning Jobs: Find jobs for Companies Bitcoin-only
 
