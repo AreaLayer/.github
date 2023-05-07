@@ -30,4 +30,4 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - DLCs for Lightning Network via Javascript library (soon)
 
--LightningKit: Lightning implementation Node for Bitcoiners (soon)
+- LightningKit: Lightning implementation Node for Bitcoiners (soon)
