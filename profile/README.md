@@ -18,7 +18,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)](https://github.com/AreaLayer/PillSatoshi)
 
-- [HyperArm: P2P API for Hypercore](https://github.com/AreaLayer/HyperArm)
+- [HyperArm: P2P API for Bitcoin prices on Hypercore](https://github.com/AreaLayer/HyperArm)
 
 - Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
 
