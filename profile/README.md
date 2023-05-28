@@ -33,3 +33,5 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - LightningKit: Lightning implementation Node for Bitcoiners (soon)
 
 - NIP-xxx: TBA
+
+- Phoenix Citadel: TBA
