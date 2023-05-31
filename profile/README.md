@@ -22,6 +22,8 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
 
+- Lightning-AI: TBA
+
 ## Other things
 
 - Nostr relay (soon)
