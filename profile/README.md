@@ -36,4 +36,4 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - NIP-xxx: TBA
 
-- [Phoenix: An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD](https://github.com/Phoenix-Organization) (TBA)
+- [Phoenix: An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD](https://github.com/Phoenix-Organization)
