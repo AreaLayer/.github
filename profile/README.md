@@ -24,6 +24,13 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Lightning-AI: TBA
 
+## PoC 
+
+Today we've two proof of concept around two we are working:
+
+- [Lightning Lending](https://github.com/AreaLayer/Lightning-lending-PoC)
+- [Lightning AI](https://github.com/AreaLayer/Lightning-AI-PoC)
+
 ## Other things
 
 - Nostr relay (soon)
