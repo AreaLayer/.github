@@ -36,7 +36,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Federated Lightning address with NIP-05 powered by @arealayer.com](https://github.com/AreaLayer/LNURL) (soon)
 
-- DLCs for Lightning Network via Javascript library: TBA
+- [DLCs for Lightning Network via Javascript library:](https://github.com/AreaLayer/javascript-dlc)(TBA)
 
 - LightningKit: Lightning implementation Node for Bitcoiners (soon)
 
