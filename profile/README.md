@@ -40,6 +40,6 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - LightningKit: Lightning implementation Node for Bitcoiners (soon)
 
-- NIP-xxx: TBA
+- [NIP-xxx: Peers Lightning](https://github.com/AreaLayer/NIP-xxx)(TBA)
 
 - [Horus: An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD](https://github.com/Horus-Orgnazation)
