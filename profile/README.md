@@ -22,12 +22,12 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
 
-- Lightning-AI: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel (TBA)
+- Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel (TBA)
 
 ## PoC 
 
 - [Lightning Lending](https://github.com/AreaLayer/Lightning-lending-PoC)
-- [Lightning AI](https://github.com/AreaLayer/Lightning-AI-PoC)
+- [Bolt Machine](https://github.com/AreaLayer/Lightning-AI-PoC)
 - [P2P BTC](https://github.com/AreaLayer/P2PBTC-PoC)
 
 ## Other things
