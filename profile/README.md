@@ -22,9 +22,9 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
 
-- Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel using AI (TBA)
+- Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel using AI: TBA
 
-- Nostr App Store: TBA
+- [Nostr App Store](https://github.com/AreaLayer/Nostr-App-Store): TBA
 
 ## PoC 
 
@@ -38,10 +38,10 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Federated Lightning address with NIP-05 powered by @arealayer.com](https://github.com/AreaLayer/LNURL) (soon)
 
-- [DLCs for Lightning Network via Javascript library:](https://github.com/AreaLayer/javascript-dlc)(TBA)
+- [DLCs for Lightning Network via Javascript library:](https://github.com/AreaLayer/javascript-dlc): TBA
 
 - LightningKit: Lightning implementation Node for Bitcoiners (soon)
 
-- [NIP-xxx: Peers Lightning](https://github.com/AreaLayer/NIP-xxx)(TBA)
+- [NIP-xxx: Peers Lightning](https://github.com/AreaLayer/NIP-xxx): TBA
 
 - [Horus: An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD](https://github.com/Horus-Orgnazation)
