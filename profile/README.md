@@ -27,7 +27,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 ## PoC 
 
 - [Lightning Lending](https://github.com/AreaLayer/Lightning-lending-PoC)
-- [Bolt Machine](https://github.com/AreaLayer/Lightning-AI-PoC)
+- [Bolt Machine](https://github.com/AreaLayer/Bolt-Machine-AI)
 - [P2P BTC](https://github.com/AreaLayer/P2PBTC-PoC)
 
 ## Other things
