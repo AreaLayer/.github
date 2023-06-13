@@ -22,7 +22,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
 
-- Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel (TBA)
+- Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel using AI (TBA)
 
 ## PoC 
 
