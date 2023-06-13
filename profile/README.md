@@ -24,6 +24,8 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel using AI (TBA)
 
+- Nostr App Store: TBA
+
 ## PoC 
 
 - [Lightning Lending](https://github.com/AreaLayer/Lightning-lending-PoC)
