@@ -24,7 +24,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel using AI: TBA
 
-- [Nostr App Store](https://github.com/AreaLayer/Nostr-App-Store): Find apps, FOSS applications, tools from Nostr, Bitcoin and Lightning Network: TBA
+- [Nostr App Store: Find apps, FOSS applications, tools from Nostr, Bitcoin and Lightning Network](https://github.com/AreaLayer/Nostr-App-Store): TBA
 
 ## PoC 
 
