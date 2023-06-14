@@ -41,7 +41,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [DLCs for Lightning Network via Javascript library](https://github.com/AreaLayer/javascript-dlc): TBA
 
-- LightningKit: Lightning implementation Node for Bitcoiners (soon)
+- Intra-Lightning: Lightning implementation Node for Bitcoiners: TBA
 
 - [NIP-xxx: Peers Lightning](https://github.com/AreaLayer/NIP-xxx): TBA
 
