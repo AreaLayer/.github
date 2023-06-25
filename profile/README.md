@@ -32,6 +32,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Bolt Machine](https://github.com/AreaLayer/Bolt-Machine-AI)
 - [P2P BTC](https://github.com/AreaLayer/P2PBTC-PoC)
 - [Nostr App Store](https://github.com/AreaLayer/Nostr-App-Store-PoC)
+- [Coinjoin](https://github.com/AreaLayer/Coinjoin-PoC-demo)
 
 ## Other things
 
