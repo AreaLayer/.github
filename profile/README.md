@@ -34,6 +34,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Nostr App Store](https://github.com/AreaLayer/Nostr-App-Store-PoC)
 - [Coinjoin](https://github.com/AreaLayer/Coinjoin-PoC-demo)
 - [DCA Lightning](https://github.com/AreaLayer/DCA-Lightning-PoC)
+- [Beat](https://github.com/AreaLayer/Beat-PoC)
 
 ## Other things
 
