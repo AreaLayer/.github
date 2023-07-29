@@ -39,6 +39,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Coinjoin](https://github.com/AreaLayer/Coinjoin-PoC-demo)
 - [DCA Lightning](https://github.com/AreaLayer/DCA-Lightning-PoC)
 - [Beat](https://github.com/AreaLayer/Beat-PoC)
+- [Lightning Jobs](https://github.com/AreaLayer/Lightning-Jobs-PoC)
 
 ## Other things
 
