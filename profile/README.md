@@ -4,6 +4,8 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 ## Products
 
+* Check ours main products for Bitcoiners *
+
 - [P2P BTC: P2P Marketplace with Nostr, ION and Lightning Network](https://github.com/AreaLayer/P2PBTC)
 
 - Timelight: LSP, Submarine Swap for Lightning Nodes
@@ -28,6 +30,8 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 ## PoC 
 
+* Main PoC for future products on Area Layer *
+
 - [Lightning Lending](https://github.com/AreaLayer/Lightning-lending-PoC)
 - [Bolt Machine](https://github.com/AreaLayer/Bolt-Machine-AI)
 - [P2P BTC](https://github.com/AreaLayer/P2PBTC-PoC)
@@ -37,6 +41,8 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Beat](https://github.com/AreaLayer/Beat-PoC)
 
 ## Other things
+
+* Area Layer is expanding for other sectors of the Bitcoin ecosystem * 
 
 - wss://arealayer.com (soon)
 
