@@ -28,6 +28,8 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Nostr App Store: Find apps, FOSS applications, tools from Nostr, Bitcoin and Lightning Network](https://github.com/AreaLayer/Nostr-App-Store)
 
+- Beat: TBA
+
 ## PoC 
 
 *Main PoC for future products on Area Layer*
