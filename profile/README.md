@@ -42,6 +42,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [DCA Lightning](https://github.com/AreaLayer/DCA-Lightning-PoC)
 - [Beat](https://github.com/AreaLayer/Beat-PoC)
 - [Lightning Jobs](https://github.com/AreaLayer/Lightning-Jobs-PoC)
+- [Hyperarm Subscription Plan Demo](https://github.com/AreaLayer/Hyperarm-demo)
 
 ## Other things
 
