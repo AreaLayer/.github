@@ -30,6 +30,11 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Beat: TBA
 
+
+## Design products
+
+- [CoinjoinXT](https://github.com/AreaLayer/CoinjoinXT)
+  
 ## PoC 
 
 *Main PoC for future products on Area Layer*
