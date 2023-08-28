@@ -22,7 +22,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [HyperArm: P2P API for Bitcoin prices on Hypercore](https://github.com/AreaLayer/HyperArm)
 
-- Hash Pool:  Based on Mining dev kit (MDK) offers APIs for miners and pool facilitating access Bitcoin timechain and others functions
+- Hash Pool: Efficient software for miners and pool facilitating access Bitcoin timechain and others functions
 
 - Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel using AI Agent
 
