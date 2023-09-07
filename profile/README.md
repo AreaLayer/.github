@@ -12,7 +12,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Lightning Jobs: Find jobs for Companies Bitcoin-only
 
-- [Lightning Lending: P2P lending channels on Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
+- Lightning Lending: P2P lending channels on Nostr and DLCs
 
 - DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
