@@ -6,7 +6,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 *Check ours main products for Bitcoiners*
 
-- [P2P BTC: P2P Marketplace with Nostr, ION and Lightning Network](https://github.com/AreaLayer/P2PBTC)
+- [P2P BTC: P2P Marketplace with Nostr on Lightning Network](https://github.com/AreaLayer/P2PBTC)
 
 - Timelight: LSP, Submarine Swap for Lightning Nodes
 
