@@ -24,7 +24,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Hash Pool: Efficient SDK for miners and pool facilitating access Bitcoin timechain and others functions](https://github.com/AreaLayer/HashPool)
 
-- Bolt Machine: Algorithm for Node Runners help find better inbound liquidity, reblance, open and close channel using AI Agent
+- Bolt Machine: AI for Node Runners help find better inbound liquidity, reblance, open and close channel
 
 - Nostr App Store: Find apps, FOSS applications, tools from Nostr, Bitcoin and Lightning Network
 
