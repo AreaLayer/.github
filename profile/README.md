@@ -24,6 +24,10 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Hash Pool: Efficient SDK for miners and pool facilitating access Bitcoin timechain and others functions](https://github.com/AreaLayer/HashPool)
 
+- [DLCs for Lightning Network via Javascript library](https://github.com/AreaLayer/javascript-dlc)
+
+- [Intra-Lightning: Lightning implementation Node for Bitcoiners](https://github.com/AreaLayer/Intra-Lightning)
+
 - Bolt Machine: AI for Node Runners help find better inbound liquidity, reblance, open and close channel
 
 - Nostr App Store: Find apps, FOSS applications, tools from Nostr, Bitcoin and Lightning Network
@@ -47,7 +51,12 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Lightning Jobs](https://github.com/AreaLayer/Lightning-Jobs-PoC)
 - [Hyperarm Subscription Plan Demo](https://github.com/AreaLayer/Hyperarm-demo)
 
-## Other things
+## FOSS intiative
+
+- [FDK: Development Kit for Frost](https://github.com/FrostDevKit)
+- [Horus: An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD](https://github.com/Horus-Org)
+
+## Nostr 
 
 *Area Layer is expanding for other sectors of the Bitcoin ecosystem* 
 
@@ -55,10 +64,5 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Federated Lightning address with NIP-05 powered by @arealayer.com](https://github.com/AreaLayer/LNURL) (soon)
 
-- [DLCs for Lightning Network via Javascript library](https://github.com/AreaLayer/javascript-dlc)
-
-- [Intra-Lightning: Lightning implementation Node for Bitcoiners](https://github.com/AreaLayer/Intra-Lightning)
-
 - [NIP-xxx: Event Data](https://github.com/AreaLayer/NIP-xxx)
 
-- [Horus: An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD](https://github.com/Horus-Org)
