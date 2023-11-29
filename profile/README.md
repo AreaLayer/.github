@@ -37,20 +37,6 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [CoinjoinXT](https://github.com/AreaLayer/CoinjoinXT)
   
-## PoC 
-
-*Main PoC for future products on Area Layer*
-
-- [Lightning Lending](https://github.com/AreaLayer/Lightning-lending-PoC)
-- [Bolt Machine](https://github.com/AreaLayer/Bolt-Machine-AI)
-- [P2P BTC](https://github.com/AreaLayer/P2PBTC-PoC)
-- [Nostr App Store](https://github.com/AreaLayer/Nostr-App-Store-PoC)
-- [Coinjoin](https://github.com/AreaLayer/Coinjoin-PoC-demo)
-- [DCA Lightning](https://github.com/AreaLayer/DCA-Lightning-PoC)
-- [Beat](https://github.com/AreaLayer/Beat-PoC)
-- [Lightning Jobs](https://github.com/AreaLayer/Lightning-Jobs-PoC)
-- [Hyperarm Subscription Plan Demo](https://github.com/AreaLayer/Hyperarm-demo)
-
 ## FOSS intiative
 
 - [FDK: Development Kit for Frost](https://github.com/FrostDevKit)
