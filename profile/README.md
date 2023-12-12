@@ -28,7 +28,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Intra-Lightning: Lightning implementation Node for Bitcoiners](https://github.com/AreaLayer/Intra-Lightning)
 
-- Bolt Machine: AI for Node Runners help find better inbound liquidity, reblance, open and close channel
+- Bolt Machine: AI Agent for Node Runners help find better inbound liquidity, reblance, open and close channel powered by OpenAI 
 
 - Nostr App Store: Find apps, FOSS applications, tools from Nostr, Bitcoin and Lightning Network
 
