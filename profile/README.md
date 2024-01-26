@@ -32,9 +32,6 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 *Area Layer is expanding for other sectors of the Bitcoin ecosystem* 
 
-- Nostr relay: `wss://arealayer.com` (soon)
-
-- [Federated Lightning address with NIP-05 powered by @arealayer.com](https://github.com/AreaLayer/LNURL) (soon)
 
 - [NIP-xxx: Event Data](https://github.com/AreaLayer/NIP-xxx)
 
