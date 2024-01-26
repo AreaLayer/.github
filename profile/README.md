@@ -6,19 +6,12 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 *Check ours main products for Bitcoiners*
 
-- P2P BTC: P2P Marketplace with Nostr on Lightning Network
-
-- Timelight: LSP, Submarine Swap for Lightning Nodes
-
-- Lightning Jobs: Find jobs for Companies Bitcoin-only
 
 - [Lightning Lending: P2P open/close channels using Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
 
 - DCA Lightning: Buy Bitcoin direct in your Node Lightning with gateaway payments
 
 - Firebolt: Wallet non-custodial Bitcoin, Lightning Network, Nostr, HyperCore, CoinJoin and TBD
-
-- Pill Satoshi: Social media for Bitcoiners on the Nostr (iOs, Android and Web)
 
 - [HyperArm: P2P API for Bitcoin prices on Hypercore](https://github.com/AreaLayer/HyperArm)
 
@@ -30,7 +23,6 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - Bolt Machine: AI Agent for Node Runners help find better inbound liquidity, reblance, open and close channel powered by OpenAI 
 
-- Nostr App Store: Find apps, FOSS applications, tools from Nostr, Bitcoin and Lightning Network
 
 
 ## Design products
