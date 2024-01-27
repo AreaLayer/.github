@@ -9,13 +9,13 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Lightning Lending: P2P open/close channels using Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
 
-- Firebolt: Wallet non-custodial Bitcoin, Lightning Network, Nostr, HyperCore, CoinJoin and TBD
+- [Firebolt: Wallet non-custodial Bitcoin, Lightning Network, Nostr, HyperCore, CoinJoin and TBD](https://github.com/AreaLayer/FireBolt)
 
 - [Hash Pool: Efficient SDK for miners and pool facilitating access Bitcoin timechain and others functions](https://github.com/AreaLayer/HashPool)
 
 - [DLCs for Lightning Network via Javascript library](https://github.com/AreaLayer/javascript-dlc)
 
-- Bolt Machine: AI Agent for Node Runners help find better inbound liquidity, reblance, open and close channel powered by OpenAI 
+- [Bolt Machine: AI Agent for Node Runners help find better inbound liquidity, reblance, open and close channel powered by OpenAI](https://github.com/AreaLayer/Bolt-Machine)
 
 
 
