@@ -26,7 +26,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 ## FOSS intiative
 
 - [FDK: Development Kit for Frost](https://github.com/FrostDevKit)
-- [Horus: An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD](https://github.com/Horus-Org)
+- [Horus: An open source initiative from Area Layer for provide DLCs, Lightning Network and Bitcoin](https://github.com/Horus-Org)
 
 ## Nostr 
 
