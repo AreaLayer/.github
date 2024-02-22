@@ -9,7 +9,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Lightning Lending: P2P open/close channels using Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
 
-- [Firebolt: Wallet non-custodial Bitcoin, Lightning Network, Nostr, HyperCore, CoinJoin and TBD](https://github.com/AreaLayer/FireBolt)
+- [Firebolt: Wallet non-custodial Bitcoin, Lightning Network, CoinJoin and Payjoin](https://github.com/AreaLayer/FireBolt)
 
 - [Hash Pool: Efficient SDK for miners and pool facilitating access Bitcoin timechain and others functions](https://github.com/AreaLayer/HashPool)
 
