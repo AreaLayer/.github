@@ -35,3 +35,6 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [NIP-xxx: Event Data](https://github.com/AreaLayer/NIP-xxx)
 
+## Donations
+
+[Rsync](https://tourniquet.app/donate/Rsync)
