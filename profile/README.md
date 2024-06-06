@@ -17,7 +17,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Bolt Machine: AI Agent for Node Runners help find better inbound liquidity, reblance, open and close channel powered by OpenAI](https://github.com/AreaLayer/Bolt-Machine)
 
-
+- [Firebolt Electrum: Electrum plugin for coinjoin](https://github.com/AreaLayer/firebolt-electrum)
 
 ## Design products
 
