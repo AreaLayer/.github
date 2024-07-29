@@ -19,7 +19,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Firebolt Electrum: Electrum plugin for coinjoin](https://github.com/AreaLayer/firebolt-electrum)
 
-- [Nostr Bot LN](https://github.com/AreaLayer/nostr-bot-ln-channel):  A bot Nostr for Node Runners 
+- [Nostr Bot LN: A bot Nostr for Node Runners](https://github.com/AreaLayer/nostr-bot-ln-channel)
 
 ## Design products
 
