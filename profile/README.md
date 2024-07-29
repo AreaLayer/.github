@@ -30,6 +30,13 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [FDK: Development Kit for Frost](https://github.com/FrostDevKit)
 - [Horus: An open source initiative from Area Layer for provide DLCs, Lightning Network and Bitcoin](https://github.com/Horus-Org)
 
+## DLCs implementations
+
+- [Javascript DLC: Discreet Log Contract Javascript library](https://github.com/AreaLayer/javascript-dlc)
+- [Dart DLC: A pure Dart library](https://github.com/Horus-Org/dart-dlc)
+- [Docker DLC: Docker source for DLCs](https://github.com/Horus-Org/docker-dlc)
+
+
 ## Nostr 
 
 *Area Layer is expanding for other sectors of the Bitcoin ecosystem* 
