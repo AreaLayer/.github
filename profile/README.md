@@ -30,6 +30,12 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [FDK: Development Kit for Frost](https://github.com/FrostDevKit)
 - [Horus: An open source initiative from Area Layer for provide DLCs, Lightning Network and Bitcoin](https://github.com/Horus-Org)
 
+## Demo projects
+
+- [Bitcoin Tickets: Demo platform for buy/sell tickets using Bitcoin by BDK and WASM](https://github.com/AreaLayer/bitcoin-ticket)
+- [Ark Wallet: Ark wallet with CLI](https://github.com/Ark-wallet/ark-wallet-cli)
+- [Cashu Wallet: Wallet Demo CLI user-friendly by CDK](https://github.com/Cashu-wallet/cashu-wallet/)
+
 ## DLCs implementations
 
 - [Javascript DLC: Discreet Log Contract Javascript library](https://github.com/AreaLayer/javascript-dlc)
