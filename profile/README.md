@@ -37,7 +37,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Bitcoin Tickets: Demo platform for buy/sell tickets using Bitcoin by BDK and WASM](https://github.com/AreaLayer/bitcoin-ticket)
 - [Ark Wallet: Ark wallet with CLI](https://github.com/Ark-wallet/ark-wallet-cli)
 - [Cashu Wallet: Wallet Demo CLI user-friendly by CDK](https://github.com/Cashu-wallet/cashu-wallet/)
-
+- [Sovereign Kit](https://github.com/Sovereign-Kit/sovereign-core)
 ## DLCs implementations
 
 - [Javascript DLC: Discreet Log Contract Javascript library](https://github.com/AreaLayer/javascript-dlc)
