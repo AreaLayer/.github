@@ -38,6 +38,9 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Ark Wallet: Ark wallet with CLI](https://github.com/Ark-wallet/ark-wallet-cli)
 - [Cashu Wallet: Wallet Demo CLI user-friendly by CDK](https://github.com/Cashu-wallet/cashu-wallet/)
 - [Sovereign Kit: Multisig wallet CLI via Fedimint, Nostr and Bitcoin](https://github.com/Sovereign-Kit/sovereign-core)
+- [Nostr Zap Liquid: Demo using Zaps for L-BTC by Liquid](https://codeberg.org/TeraBytes90900/nostr-zap-liquid/)
+
+  
 ## DLCs implementations
 
 - [Javascript DLC: Discreet Log Contract Javascript library](https://github.com/AreaLayer/javascript-dlc)
