@@ -51,9 +51,6 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 ## Nostr 
 
-*Area Layer is expanding for other sectors of the Bitcoin ecosystem* 
-
-
 - [NIP-xxx: Event Data](https://github.com/AreaLayer/NIP-xxx)
 
 ## Donations
