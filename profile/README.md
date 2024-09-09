@@ -2,7 +2,7 @@
 
 Area Layer provides freedom economy with solutions user friendly for bitcoiners, node runners, liquidity and self sovereign
 
-## Products
+## Projects
 
 *Check ours main products for Bitcoiners*
 
@@ -23,7 +23,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Rust L402: Client module to consume L402 endpoints](https://github.com/AreaLayer/rust-l402)
 
-## Design products
+## Design projects
 
 - [CoinjoinXT](https://github.com/AreaLayer/CoinjoinXT)
   
