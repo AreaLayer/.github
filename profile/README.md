@@ -4,7 +4,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 ## Projects
 
-*Check ours main products for Bitcoiners*
+*Check ours main projects for Bitcoiners*
 
 
 - [Lightning Lending: P2P open/close channels using Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
