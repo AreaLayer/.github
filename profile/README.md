@@ -40,6 +40,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Sovereign Kit: Multisig wallet CLI via Fedimint, Nostr and Bitcoin](https://github.com/Sovereign-Kit/sovereign-core)
 - [Nostr Zap Liquid: Demo using Zaps for L-BTC by Liquid](https://codeberg.org/TeraBytes90900/nostr-zap-liquid/)
 - [Demo Swap: Demo App swap by Boltz Exchange and basic UI](https://github.com/AreaLayer/demo-swap)
+- [Rust Bitcoin Sidechain:  Bitcoin-anchored sidechain written in Rust, leveraging Bitcoin's Proof-of-Work (PoW)](https://github.com/AreaLayer/demo-sidechain)
 
   
 ## DLCs implementations
