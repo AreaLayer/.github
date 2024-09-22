@@ -56,7 +56,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 ## Nostr 
 
-- [NIP-xxx: Event Data](https://github.com/AreaLayer/NIP-xxx)
+- [NIP-300: Event Data](https://github.com/AreaLayer/NIP-300)
 
 ## Donations
 
