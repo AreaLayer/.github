@@ -49,6 +49,10 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Dart DLC: A pure Dart library](https://github.com/Horus-Org/dart-dlc)
 - [Docker DLC: Docker source for DLCs](https://github.com/Horus-Org/docker-dlc)
 
+## BIPs
+
+- [BIP-353 Lib:  React Native for BIP-353 (DNS Payments)](https://github.com/Horus-Org/bip-353-lib)
+- [Javascript Frost:  Library Frost in Javascript compatible with React](https://github.com/FrostDevKit/javascript-frost)
 
 ## Nostr 
 
@@ -56,4 +60,4 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 ## Donations
 
-[Rsync](https://tourniquet.app/donate/Rsync)
+[Area Layer](https://www.arealayer.net/donation)
