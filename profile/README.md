@@ -26,6 +26,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 ## Design projects
 
 - [CoinjoinXT](https://github.com/AreaLayer/CoinjoinXT)
+- [ZK Proof](https://github.com/AreaLayer/zk-proof)
   
 ## FOSS intiative
 
