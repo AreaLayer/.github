@@ -45,8 +45,9 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [Demo Swap: Demo App swap by Boltz Exchange and basic UI](https://github.com/AreaLayer/demo-swap)
 - [Rust Bitcoin Sidechain:  Bitcoin-anchored sidechain written in Rust, leveraging Bitcoin's Proof-of-Work (PoW)](https://github.com/AreaLayer/demo-sidechain)
 - [Demo Fedimint Web: Fedimint project for web using NPM and Vite](https://github.com/AreaLayer/demo-fedimint-web)
+- [Demo Zk-Snarks Quantum: Demo project for P2P Coinjoin using ZK-Snarks to post quantum world](https://github.com/AreaLayer/demo-zksnarks-quantum)
 
-  
+
 ## DLCs implementations
 
 - [Javascript DLC: Discreet Log Contract Javascript library](https://github.com/AreaLayer/javascript-dlc)
