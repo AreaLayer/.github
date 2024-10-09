@@ -57,6 +57,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [BIP-353 Lib:  React Native for BIP-353 (DNS Payments)](https://github.com/Horus-Org/bip-353-lib)
 - [Javascript Frost:  Library Frost in Javascript compatible with React](https://github.com/FrostDevKit/javascript-frost)
+- [Payjoin React Native:  React Native Library to Payjoin](https://github.com/Horus-Org/payjoin-react-native)
 
 ## Nostr 
 
