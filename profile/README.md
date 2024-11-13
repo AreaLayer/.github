@@ -23,12 +23,12 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Rust L402: Client module to consume L402 endpoints](https://github.com/AreaLayer/rust-l402)
 
-- [ZK Proof Rust: ZK Proof Library for Coinjoin transactions](https://github.com/AreaLayer/zk-proof-rust)
+- [ZK Proof Rust: ZK Proof Library for Coinjoin transactions](https://github.com/AreaLayer/zk-proof-rust) - In 2025
 
 ## Design projects
 
 - [CoinjoinXT](https://github.com/AreaLayer/CoinjoinXT)
-- [ZK Proof](https://github.com/AreaLayer/zk-proof)
+- [ZK Proof](https://github.com/AreaLayer/zk-proof) - In 2025
   
 ## FOSS intiative
 
