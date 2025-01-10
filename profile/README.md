@@ -9,7 +9,7 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Lightning Lending: P2P open/close channels using Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
 
-- [Firebolt: Wallet non-custodial Bitcoin, Lightning Network, CoinJoin and Payjoin](https://github.com/AreaLayer/firebolt-react-native)
+- [Firebolt: Wallet non-custodial Bitcoin, Lightning Network, CoinJoin and Payjoin](https://github.com/AreaLayer/firebolt-react-native) - TBA
 
 - [Hash Pool: Efficient SDK for miners and pool facilitating access Bitcoin timechain and others functions](https://github.com/AreaLayer/HashPool)
 
@@ -23,12 +23,12 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Rust L402: Client module to consume L402 endpoints](https://github.com/AreaLayer/rust-l402)
 
-- [ZK Proof Rust: ZK Proof Library for Coinjoin transactions](https://github.com/AreaLayer/zk-proof-rust) - Coming in 2025
+- [ZK Proof Rust: ZK Proof Library for Coinjoin transactions](https://github.com/AreaLayer/zk-proof-rust) - Q1 2025
 
 ## Design projects
 
 - [CoinjoinXT](https://github.com/AreaLayer/CoinjoinXT)
-- [ZK Proof](https://github.com/AreaLayer/zk-proof) - Coming in 2025
+- [ZK Proof](https://github.com/AreaLayer/zk-proof) - TBA
   
 ## FOSS intiative
 
