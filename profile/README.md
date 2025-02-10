@@ -19,6 +19,8 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 
 - [Firebolt Electrum: Electrum plugin for coinjoin](https://github.com/AreaLayer/firebolt-electrum)
 
+- [Firebolt BTCPayServer: Firebolt plugin with Coinjoin for BTCPayServer](https://github.com/AreaLayer/firebolt-btcpayserver) - Soon
+
 - [Nostr Bot LN: A bot Nostr for Node Runners](https://github.com/AreaLayer/nostr-bot-ln-channel)
 
 - [Rust L402: Client module to consume L402 endpoints](https://github.com/AreaLayer/rust-l402)
