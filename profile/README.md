@@ -7,8 +7,6 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 *Check ours main projects for Bitcoiners*
 
 
-- [Lightning Lending: P2P open/close channels using Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
-
 - [Hash Pool: Efficient SDK for miners and pool facilitating access Bitcoin timechain and others functions](https://github.com/AreaLayer/HashPool)
 
 - [DLCs for Lightning Network via Javascript library](https://github.com/AreaLayer/javascript-dlc)
@@ -56,7 +54,3 @@ Area Layer provides freedom economy with solutions user friendly for bitcoiners,
 - [BIP-353 Lib:  React Native for BIP-353 (DNS Payments)](https://github.com/Horus-Org/bip-353-lib)
 - [Javascript Frost:  Library Frost in Javascript compatible with React](https://github.com/FrostDevKit/javascript-frost)
 - [Payjoin React Native:  React Native Library to Payjoin](https://github.com/Horus-Org/payjoin-react-native)
-
-## Nostr 
-
-- [NIP-300: Event Data](https://github.com/AreaLayer/NIP-300)
