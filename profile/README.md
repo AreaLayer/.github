@@ -1,6 +1,5 @@
-## Area Layer: P2P Economy on Bitcoin⚡️
+## PrivAtlas: the map of decentralized privacy.
 
-Area Layer provides freedom economy with solutions user friendly for bitcoiners, node runners, liquidity and self sovereign
 
 ## Projects
 
